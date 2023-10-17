@@ -1,4 +1,5 @@
-![Logo da Minha Aplicação]((https://myoctocat.com/build-your-octocat/))
+![](https://myoctocat.com/build-your-octocat/)
+
 
 # Olá, me chamo Kilson Alves  ! 
 ## Bem vindo ao meu perfil GitHub 👋.
