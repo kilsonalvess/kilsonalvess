@@ -1,4 +1,4 @@
-<img src="C:\Users\kilso\Downloads" />
+<img src="C:\Users\kilso\Downloads" width="40" height="40" />
 # Olá, me chamo Kilson Alves  ! 
 ## Bem vindo ao meu perfil GitHub 👋.
 
