@@ -1,4 +1,5 @@
-<img src="C:\Users\kilso\Downloads" width="40" height="40" />
+![Logo da Minha Aplicação]((https://myoctocat.com/build-your-octocat/))
+
 # Olá, me chamo Kilson Alves  ! 
 ## Bem vindo ao meu perfil GitHub 👋.
 
