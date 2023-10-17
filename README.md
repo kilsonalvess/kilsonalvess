@@ -1,4 +1,4 @@
-
+<img src="https://myoctocat.com/build-your-octocat/" width="40" height="40" />
 # Olá, me chamo Kilson Alves  ! 
 ## Bem vindo ao meu perfil GitHub 👋.
 
