@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Atualmente sou estudante do 6ª periodo em Sistemas Para Internet no IFPB .
+- 🔭 Atualmente sou formado do em Sistemas Para Internet no IFPB .
 - 🌱 Atualmente estou aprendendo Java com Spring Boot pois são tecnologias que gosto muito de desenvolver .
 - 👯 Estou a procura de um estagio com Java com Spring Boot ou outra tecnologia da parte que tenho mais familiariadade com o Back End como Pyton, C++ etc ou até mesmo na parte de Analista de Teste . 
 - 🤔 Estou procurando ajuda em relação a minha primeira oportunidade na area como estagio .
