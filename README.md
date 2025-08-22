@@ -6,11 +6,11 @@
 
 
 
-- 🔭 Atualmente sou formado do em Sistemas Para Internet no IFPB .
-- 🌱 Atualmente estou aprendendo Java com Spring Boot pois são tecnologias que gosto muito de desenvolver .
-- 📫 Meu contato por e-mail kilsonalves27@gmail.com ou pelo celular 83 998945900
-- ⚡ Sou uma pessoa bastante ativa e facinada em aprender cada vez mais tecnologias ligadas a qualquer tipo de segmento .
+Sou desenvolvedor full stack com foco em Java no backend, atuando na construção de aplicações web robustas, escaláveis e seguras. Tenho experiência com Spring Boot, JPA/Hibernate, RESTful APIs e bancos de dados MySQL, PostgreSQL e MongoDB. No frontend, trabalho com tecnologias como HTML, CSS, JavaScript e frameworks modernos como Angular e React, integrando interfaces intuitivas com lógicas de negócio eficientes.
 
+Tenho facilidade em transitar entre diferentes camadas da aplicação, desde a modelagem de dados e lógica de negócio até a entrega de uma boa experiência ao usuário final. Adoto boas práticas de desenvolvimento como clean code, versionamento com Git, testes automatizados, containers com Docker e integração contínua (CI/CD).
+
+Sou proativo, comprometido com prazos e qualidade, e busco constantemente aprender novas ferramentas e arquiteturas. Valorizo o trabalho em equipe, a troca de conhecimento e a entrega de soluções que realmente resolvam problemas e gerem valor para o negócio.
 
 ## Feramentas e Tecnologias 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
